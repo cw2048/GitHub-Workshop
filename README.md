@@ -35,7 +35,7 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
    - Hands-on activity: Setting up a repository.
    - Adding materials (README.md, codes, files) and making commits.
 
-4. **Downloading Repositories and Updating with GitHub GUI (1 hour)**
+4. **Downloading Repositories and Updating with GitHub Desktop GUI (1 hour)**
    - Introduction to cloning and updating on your local computer.
    - Using forks to create personal copies of repositories.
    - Hands-on activity: Students fork a repository and add a document.
