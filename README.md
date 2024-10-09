@@ -11,7 +11,6 @@ A Nevada Bioinformatics Core workshop on GitHub for beginners. This workshop is 
 4. [Prerequisites](#prerequisites)
 5. [Materials Needed](#materials-needed)
 6. [Resources](#resources)
-7. [Feedback](#feedback)
 
 
 ## Workshop Description
@@ -80,12 +79,6 @@ No prior experience with GitHub is required. Participants should have basic comp
 - (Optional) GitHub Desktop installed for local GUI activities ([Download here](https://desktop.github.com/)).
 
 ## Resources
-- [GitHub Learning Lab](https://lab.github.com/): Free tutorials on GitHub features.
-- [Pro Git Book](https://git-scm.com/book/en/v2): A comprehensive book on Git.
 - [GitHub Documentation](https://docs.github.com/): Official GitHub documentation for further learning.
+- [Pro Git Book](https://git-scm.com/book/en/v2): A comprehensive book on Git.
 
-## Feedback
-We encourage participants to provide feedback on the workshop to help us improve future sessions. Please fill out the post-workshop survey [here](#).
-
-## License
-This workshop content is licensed under the [MIT License](LICENSE).
