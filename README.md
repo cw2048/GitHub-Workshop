@@ -26,9 +26,9 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
    - Key terms: repository, commit, fork, GitHub Pages.
 
 2. **Setting Up and Navigating GitHub (30 minutes)**
-   - Creating an account and setting up a profile.
+   - Hands-on Activity: Creating an account.
    - Overview of the GitHub interface (repositories, profile).
-   - Exploring repositories: navigating repositories, viewing files, and understanding a README.md file.
+   - Exploring other repositories: navigating, viewing files, and understanding a README.md file.
 
 3. **Creating and Updating a Repository Online (1 hour)**
    - What is a repository, and how to navigate one?
@@ -38,7 +38,7 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
 4. **Downloading Repositories and Updating with GitHub GUI (1 hour)**
    - Introduction to cloning and updating on your local computer.
    - Using forks to create personal copies of repositories.
-   - Hands-on activity: Students fork a course repository and add a sample assignment.
+   - Hands-on activity: Students fork a repository and add a document.
 
 5. **Q&A and Wrap-Up for Day 1 (30 minutes)**
    - Recap of the day's content.
