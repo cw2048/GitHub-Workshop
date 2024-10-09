@@ -20,7 +20,7 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
 ## Workshop Outline
 
 ### Day 1: GitHub Basics (3-4 hours)
-1. **Introduction to GitHub (30 minutes)**
+1. **Introduction to GitHub and Version Control (30 minutes)**
    - Overview of GitHub and version control.
    - Use cases: collaboration, hosting course materials, and building personal portfolios.
    - Key terms: repository, commit, fork, GitHub Pages.
